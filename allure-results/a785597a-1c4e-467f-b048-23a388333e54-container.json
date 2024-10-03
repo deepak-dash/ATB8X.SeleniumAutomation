@@ -1,0 +1,1 @@
+{"uuid":"a785597a-1c4e-467f-b048-23a388333e54","name":"ATB8X.SeleniumAutomation","children":["6424180e-61ec-45a2-a44b-99c1dc0b53a2"],"befores":[],"afters":[{"name":"closeBrowser","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1727949473535,"stop":1727949473737}],"start":1727949443108,"stop":1727949473739}
